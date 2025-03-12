@@ -1,0 +1,72 @@
+* {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+#create-post-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#landing-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12rem;
+}
+
+#register-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12rem;
+}
+
+#register-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#login-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12rem;
+}
+
+#login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#create-post-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12rem;
+}
+
+input {
+    margin: 0.5rem;
+    padding: 0.5rem 2rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    margin: 0.5rem;
+    padding: 0.5rem 2rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fbd0d0;
+    cursor: pointer;
+}
+
